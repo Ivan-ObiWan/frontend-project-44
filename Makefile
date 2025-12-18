@@ -10,3 +10,6 @@ brain-games:
 publish:
 	npm publish --dry-run
 	@echo "✅ Проверка публикации завершена (dry run)"
+
+lint:
+	npx eslint .
