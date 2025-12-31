@@ -8,24 +8,31 @@ cat README.md# Бейджи
 
 ## Demo-even
 
-Watch the game in action:
+Watch the brain-even in action:
 
 [![asciicast](https://asciinema.org/a/75zotVEjK7baZDcTOsNmBsOFj.svg)](https://asciinema.org/a/75zotVEjK7baZDcTOsNmBsOFj)
 
 ## Demo-calc
 
-Watch the game in action:
+Watch the brain-calc in action:
 
 [![asciicast](https://asciinema.org/a/4KZAcG67FLcELraT2S8ISMzfL.svg)](https://asciinema.org/a/4KZAcG67FLcELraT2S8ISMzfL)
 
 ## Demo-GCD 
 
-Watch the game in action:
+Watch the brain-gcd in action:
 
 [![asciicast](https://asciinema.org/a/FKuon7ZgXGgaSeILx2Vllc1LS.svg)](https://asciinema.org/a/FKuon7ZgXGgaSeILx2Vllc1LS)
 
 ## Demo-progression
 
-Watch the game in action:
+Watch the brain-progression in action:
 
 [![asciicast](https://asciinema.org/a/g1CXlcyWNlvUE46ArCHxhNRt3.svg)](https://asciinema.org/a/g1CXlcyWNlvUE46ArCHxhNRt3)
+
+## Demo-prime
+
+Watch the brain-prime in action:
+
+[![asciicast](https://asciinema.org/a/lkRRiVBzL5h20y87Aj29P7U82.svg)](https://asciinema.org/a/lkRRiVBzL5h20y87Aj29P7U82)
+
