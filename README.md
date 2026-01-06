@@ -26,7 +26,7 @@ brain-progression - Прогрессия. Поиск пропущенных чи
 brain-prime - Определение простого числа
 
 
- # Бейджи 
+#  Бейджи 
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ivan-ObiWan_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ivan-ObiWan_frontend-project-44)
 
